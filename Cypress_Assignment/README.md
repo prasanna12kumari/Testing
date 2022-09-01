@@ -15,4 +15,5 @@ Note: Attached screenshots in "tesrun_screenshots" folder
 Run tests in container using the below command
 
 cd CYPRESS_ASSIGNMENT/
+
 docker run -it -v $PWD:/e2e -w /e2e -e CYPRESS_VIDEO cypress/included:8.5.0
