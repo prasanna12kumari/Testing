@@ -5,9 +5,9 @@ Automated the testcases related to login functionality of bynder portal
 
 ###Test Scenarios
 
-1.Login to portal using correct username and password and logout
+1. Login to portal using correct username and password and logout
 2. Login to portal using incorrect password and verify error message
-3.Login to portal with empty username and password
+3. Login to portal with empty username and password
 4. verify lost password link navigation
 
 Note: Attached screenshots in "tesrun_screenshots" folder
